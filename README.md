@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Real Time Chat App](https://github.com/dsasank04/RealTimeChatApp/tree/main)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DSA and MERN**
 
 - 📫 How to reach me **d.sasank18@gmail.com**
 

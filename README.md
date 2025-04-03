@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm D V S V Sasank Sarma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Real Time Chat App](https://github.com/dsasank04/RealTimeChatApp/tree/main)
+- 🔭 My recent work [Real Time Chat App](https://github.com/dsasank04/RealTimeChatApp/tree/main)
 
 - 🌱 I’m currently learning **DSA and MERN**
 
